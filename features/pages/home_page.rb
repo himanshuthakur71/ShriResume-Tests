@@ -1,4 +1,4 @@
-# require_relative 'userModule/login_page'
+require_relative 'userModule/login_page'
 # require_relative 'ResumeBuilder/selecttemplate_page'
 
 
